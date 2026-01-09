@@ -93,6 +93,8 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
+    
+    
     transform: translateY(-42px); 
 }
 form > input[type=submit] {
